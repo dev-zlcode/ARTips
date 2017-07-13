@@ -26,6 +26,8 @@ An ARKit box-drawing demo [https://github.com/alunbestor/Boxify](https://github.
 
 结合 ARKit 和 SceneKit 现实增强环境下 3D 版俄罗斯方块 [https://github.com/exyte/ARTetris](https://github.com/exyte/ARTetris)
 
+基于 ARKit 的尺子 [https://github.com/duzexu/ARuler](https://github.com/duzexu/ARuler)
+
 ### 教程
 
 ARKit从入门到精通 [http://blog.csdn.net/u013263917/article/category/6959089](http://blog.csdn.net/u013263917/article/category/6959089)
