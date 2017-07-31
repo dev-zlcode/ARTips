@@ -28,6 +28,8 @@ An ARKit box-drawing demo [https://github.com/alunbestor/Boxify](https://github.
 
 基于 ARKit 的尺子 [https://github.com/duzexu/ARuler](https://github.com/duzexu/ARuler)
 
+ARKit-CoreLocation：AR 与 GPS 精确数据的结合，开始一次导航之旅 [https://github.com/ProjectDent/ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation)
+
 ### 教程
 
 ARKit从入门到精通 [http://blog.csdn.net/u013263917/article/category/6959089](http://blog.csdn.net/u013263917/article/category/6959089)
